@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.thumbnail
+
+# Editor / tooling
+.claude/
+.vscode/
+*.log
+
+# Python
+__pycache__/
+*.pyc
